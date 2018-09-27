@@ -1,2 +1,0 @@
-everyone can code!!
-if you want to open sublime text then use subl "file name"
